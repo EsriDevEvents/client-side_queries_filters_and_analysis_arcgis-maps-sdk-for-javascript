@@ -1,8 +1,7 @@
-> **Note:** Please follow the [repository conventions](https://github.com/EsriDevEvents/contributor-guides/blob/main/conventions.md#conventions-for-repositories) and [slugify](https://slugify.online/) the title of your repo
+# ArcGIS Maps SDK for JavaScript: Client-side Queries, Filters, and Analysis
 
-# Name of the session
-
-[Description of the session]
+This session is about what is possible in the browser client-side: Overview of first queries and then using queries both client-side and server-side. Proceeding with client-side visualization techniques like filters and effects.
+The second half is about client-side analytics including the new geometry operators.
 
 ## Slides and recording
 
